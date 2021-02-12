@@ -1,2 +1,2 @@
 # Desafios c++
- Desafios resovidos em  C++( URI e Olímpiadas)
+ Desafios resolvidoss em  C++( URI e Olímpiadas)
