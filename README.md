@@ -1,2 +1,2 @@
-# Desafios c++
- Desafios resolvidos em  C++( URI e Olímpiadas)
+# Neps Academy
+ Desafios resolvidos em  C++
